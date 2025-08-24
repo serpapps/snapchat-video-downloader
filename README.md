@@ -1,6 +1,8 @@
 # Snapchat Video Downloader
 
-![Snapchat Video Downloader](https://raw.githubusercontent.com/serpapps/snapchat-video-downloader/refs/heads/assets/images/snapchat-downloader.gif)
+> Save Snapchat stories, spotlight videos, and memories permanently
+
+![Snapchat Video Downloader](https://raw.githubusercontent.com/serpapps/snapchat-video-downloader/assets/images/snapchat-video-downloader.gif)
 
 Snapchat Video Downloader is a powerful tool that helps you download content from Snapchat Video instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 
@@ -42,6 +44,13 @@ Snapchat Video Downloader is a powerful tool that helps you download content fro
 4. Click download to start the process
 5. Files will be saved to your specified directory
 
+## Technologies
+
+- Python
+- JavaScript
+- Node.js
+- Automation
+
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/snapchat-video-downloader)
@@ -49,6 +58,6 @@ Snapchat Video Downloader is a powerful tool that helps you download content fro
 <details>
 <summary>Keywords</summary>
 
-snapchat video downloader, snapchat downloader, snapchat story downloader, snapchat video downloader without watermark, snapchat pfp downloader, snapchat private story downloader, snapchat spotlight video downloader
+snapchat video downloader
 </details>
 
