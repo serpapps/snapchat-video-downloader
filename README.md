@@ -2,7 +2,7 @@
 
 > https://serp.ly/snapchat-video-downloader
 
-![Snapchat Video Downloader](https://raw.githubusercontent.com/serpapps/snapchat-video-downloader/assets/images/snapchat-video-downloader.gif)
+![Snapchat Video Downloader](https://raw.githubusercontent.com/serpapps/snapchat-video-downloader/refs/heads/assets/images/snapchat-downloader.gif)
 
 Snapchat Video Downloader is a powerful tool that helps you download content from Snapchat Video instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 
