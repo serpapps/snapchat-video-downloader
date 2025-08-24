@@ -8,8 +8,8 @@
   "store_product_id": null,
   "name": "Snapchat Video Downloader",
   "tagline": "https://serp.ly/snapchat-video-downloader",
-  "featured_image": "images/snapchat-video-downloader.jpg",
-  "featured_image_gif": "images/snapchat-video-downloader.gif",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/snapchat-video-downloader/refs/heads/assets/images/snapchat-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/snapchat-video-downloader/refs/heads/assets/images/snapchat-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/snapchat-video-downloader",
   "github_repo_tags": [
     "snapchat-video-downloader",
