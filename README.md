@@ -44,13 +44,6 @@ Snapchat Video Downloader is a powerful tool that helps you download content fro
 4. Click download to start the process
 5. Files will be saved to your specified directory
 
-## Technologies
-
-- Python
-- JavaScript
-- Node.js
-- Automation
-
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/snapchat-video-downloader)
