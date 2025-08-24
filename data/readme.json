@@ -19,7 +19,7 @@
     "snapchat-video-downloader-without-watermark",
     "snapchat-pfp-downloader",
     "snapchat-private story-downloader",
-    "snapchat-spotlight-video-downloader",
+    "snapchat-spotlight-video-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -51,7 +51,7 @@
   "supported_operating_systems": [
     "iOS",
     "Chrome",
-    "Firefox",
+    "Firefox"
   ],
   "status": "live",
   "technologies": [
@@ -80,7 +80,7 @@
   "funding_links_custom": [
     "https://serpapps.github.io/snapchat-video-downloader",
     "https://devinschumacher.com/snapchat-video-downloader",
-    "https://serp.co/products/snapchat-video-downloader/reviews/",
+    "https://serp.co/products/snapchat-video-downloader/reviews/"
   ],
   "keywords": [
     "snapchat video downloader",
@@ -89,6 +89,6 @@
     "snapchat video downloader without watermark",
     "snapchat pfp downloader",
     "snapchat private story downloader",
-    "snapchat spotlight video downloader",
+    "snapchat spotlight video downloader"
   ]
 }
