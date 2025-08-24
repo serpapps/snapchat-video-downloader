@@ -13,9 +13,13 @@
   "github_repo_url": "https://github.com/serpapps/snapchat-video-downloader",
   "github_repo_tags": [
     "snapchat-video-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "snapchat-downloader",
+    "video-downloader-apps",
+    "snapchat-story-downloader",
+    "snapchat-video-downloader-without-watermark",
+    "snapchat-pfp-downloader",
+    "snapchat-private story-downloader",
+    "snapchat-spotlight-video-downloader",
   ],
   "github_gist_url": null,
   "features": [
@@ -42,29 +46,25 @@
     "Click download to start the process",
     "Files will be saved to your specified directory"
   ],
-  "faqs": null,
+  "faqs": [
+  ],
   "supported_operating_systems": [
-    "windows",
-    "macos",
-    "linux"
+    "iOS",
+    "Chrome",
+    "Firefox",
   ],
   "status": "live",
   "technologies": [
-    "Python",
-    "JavaScript",
-    "Node.js",
-    "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/snapchat-video-downloader",
+  "serpco_product_page_link": "https://serp.co/products/snapchat-video-downloader/reviews/",
   "serpai_product_page_link": null,
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "Messaging Apps",
+    "Social Media Sites"
   ],
-  "extraction_targets": null,
-  "content_medium": null,
+  "extraction_targets": ["Stories", "Snaps", "Profile picture"],
+  "content_medium": ["video", "image"],
   "discovery_source": null,
   "related_articles": null,
   "related_gists": null,
@@ -72,21 +72,23 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/snapchat-video-downloader",
     "https://devinschumacher.com/snapchat-video-downloader",
-    "https://serp.co/products/snapchat-video-downloader/reviews/"
+    "https://serp.co/products/snapchat-video-downloader/reviews/",
   ],
   "keywords": [
-    "snapchat-video",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "snapchat video downloader",
+    "snapchat downloader",
+    "snapchat story downloader",
+    "snapchat video downloader without watermark",
+    "snapchat pfp downloader",
+    "snapchat private story downloader",
+    "snapchat spotlight video downloader",
   ]
 }
